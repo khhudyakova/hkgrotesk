@@ -55,7 +55,7 @@ body {
   line-height: 29px;
   color: #fff;
   position: absolute;
-  width: 1512px
+ /* width: 1512px */
 }
 
 h1, h2, h3, h4{
@@ -69,15 +69,15 @@ h1, h2, h3, h4{
     height: 5394px;
     background-color: #0272a4;
     position: absolute;
-    background-size: cover;
+/*    background-size: cover; */
 }
 
 .menu1 {
 position: absolute;
 width: 219px;
 height: 24px;
-left: 80px;
-top: 58px;
+margin-left: 80px;
+margin-top: 58px;
 font-family: 'HK Grotesk';
 font-style: normal;
 font-weight: 400;
@@ -120,7 +120,7 @@ body {
   padding: 0;
 }
 a {
-  text-decoration: none;
+  /* text-decoration: none; */
 }
 .header {
   background-color: #0272a4;
